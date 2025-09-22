@@ -2,7 +2,7 @@
 
 - Gender: Attack helicopter
 
-- Fun fact: meh
+- Fun fact: I might not upload here soon
 
 <!---
 ashkaqn/ashkaqn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
